@@ -2,28 +2,28 @@
     {
         "date": "2022-12-14",    
         "interval": "daily",
-        "dimensions/domain": "disheye.com"
-        "metrics/requests": "197975"
-        "metrics/impressions": "74734"
-        "metrics/cpm": "0.26"
+        "dimensions/domain": "disheye.com",
+        "metrics/requests": "197975",
+        "metrics/impressions": "74734",
+        "metrics/cpm": "0.26",
         "metrics/revenue": "19.25"
     },
     {
         "date": "2022-12-14",    
         "interval": "daily",
-        "dimensions/domain": "takez.co"
-        "metrics/requests": "49736"
-        "metrics/impressions": "17468"
-        "metrics/cpm": "0.29"
+        "dimensions/domain": "takez.co",
+        "metrics/requests": "49736",
+        "metrics/impressions": "17468",
+        "metrics/cpm": "0.29",
         "metrics/revenue": "5.14"
     },
     {
         "date": "2022-12-14",    
         "interval": "daily",
-        "dimensions/domain": "techymedies.com"
-        "metrics/requests": "309590"
-        "metrics/impressions": "94491"
-        "metrics/cpm": "0.16"
+        "dimensions/domain": "techymedies.com",
+        "metrics/requests": "309590",
+        "metrics/impressions": "94491",
+        "metrics/cpm": "0.16",
         "metrics/revenue": "15.17"
     }
 ]

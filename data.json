@@ -1,37 +1,34 @@
-[{
-	"date": "2022-12-14",
-	"interval": "daily",
-	"dimensions": {
-		"domain": "disheye.com"
-	},
-	"metrics": {
-		"requests": 197975,
-		"impressions": 74734,
-		"cpm": 0.26,
-		"revenue": 19.25
-	}
-}, {
-	"date": "2022-12-14",
-	"interval": "daily",
-	"dimensions": {
-		"domain": "takez.co"
-	},
-	"metrics": {
-		"requests": 49736,
-		"impressions": 17468,
-		"cpm": 0.29,
-		"revenue": 5.14
-	}
-}, {
-	"date": "2022-12-14",
-	"interval": "daily",
-	"dimensions": {
-		"domain": "techymedies.com"
-	},
-	"metrics": {
-		"requests": 309590,
-		"impressions": 94491,
-		"cpm": 0.16,
-		"revenue": 15.17
-	}
-}]
+[
+   {
+      "id": 1,
+      "date": "2022-12-14",
+      "interval": "daily",
+      "domain": "disheye.com",
+      "requests": 149736,
+      "impressions": 117468,
+      "cpm": "0.29";
+      "revenue": "5.14"
+      
+   },
+     {
+      "id": 2,
+      "date": "2022-12-14",
+      "interval": "daily",
+      "domain": "takez.co",
+      "requests": 197975,
+      "impressions": 74734,
+      "cpm": "0.26";
+      "revenue": "19.25"
+   },
+     {
+      "id": 3,
+      "date": "2022-12-14",
+      "interval": "daily",
+      "domain": "techymedies.com",
+      "requests": 309590,
+      "impressions": 94491,
+      "cpm": "0.16";
+      "revenue": "15.17"
+   }
+	
+]

@@ -1,32 +1,29 @@
 [
     {
-        "zipcode": "01262",    
-        "city": "Stockbridge",
-        "county": "Berkshire"
+        "date": "2022-12-14",    
+        "interval": "daily",
+        "dimensions/domain": "disheye.com"
+        "metrics/requests": "197975"
+        "metrics/impressions": "74734"
+        "metrics/cpm": "0.26"
+        "metrics/revenue": "19.25"
     },
     {
-        "zipcode": "02881",
-        "city": "Kingston",
-        "county": "Washington"
+        "date": "2022-12-14",    
+        "interval": "daily",
+        "dimensions/domain": "takez.co"
+        "metrics/requests": "49736"
+        "metrics/impressions": "17468"
+        "metrics/cpm": "0.29"
+        "metrics/revenue": "5.14"
     },
     {
-        "zipcode": "03470",
-        "city": "Winchester",
-        "county": "Cheshire"
-    },
-    {
-        "zipcode": "14477",
-        "city": "Kent",
-        "county": "Orleans"
-    },
-    {
-        "zipcode": "28652",
-        "city": "Minneapolis",
-        "county": "Avery"
-    },    
-    {
-        "zipcode": "98101",
-        "city": "Seattle",
-        "county": "King"
+        "date": "2022-12-14",    
+        "interval": "daily",
+        "dimensions/domain": "techymedies.com"
+        "metrics/requests": "309590"
+        "metrics/impressions": "94491"
+        "metrics/cpm": "0.16"
+        "metrics/revenue": "15.17"
     }
 ]

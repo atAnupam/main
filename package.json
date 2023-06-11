@@ -12,7 +12,7 @@
         "type": "git",
         "url": "git+https://github.com/DaoKhanhDuy/miraiv2.git"
     },
-    "author": "mr.web,
+    "author": "mr.web",
     "license": "GPL-3.0",
     "dependencies": {
         "@miraipr0ject/assets": "",
